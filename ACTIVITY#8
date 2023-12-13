@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Activity#8</title>
+	</head>
+	<body>
+	  <body style="background-color: #ABDEE6;">
+</body>
+	  <h1>A C T I V I T Y  N O . 8 IN C O M P R O G</h1>
+	  <h1>NAME:GELYN MARGARETTE D.BANTILLO</h1>
+	  <h1>GR&SEC:11-ICT-CP1A</h1>
+	  <h1>TEACHER: SIR LARRY JUN PAGAD</h1>
+    <div align=center></div>
+</style>
+<table align=center border="6px">
+<th bgcolor="#ABDEE6" colspan="9"><h1>CUDDLES 'N TEA</h1></th>
+<tr>
+<th bgcolor="#D4FOFO"> RICE AND MEAL</th>
+<th bgcolor="#D4FOFO"> IMAGE</th>
+<th bgcolor="#D4FOFO"> PRICE</th>
+<th bgcolor="#D4FOFO"> FRUIT TEA</th>
+<th bgcolor="#D4FOFO"> IMAGE</th>
+<th bgcolor="#D4FOFO"> PRICE</th>
+<th bgcolor="#D4FOFO"> MILKTEA</th>
+<th bgcolor="#D4FOFO"> IMAGE</th>
+<th bgcolor="#D4FOFO"> PRICE</th>
+<th bgcolor="#D4FOFO"> SNACKS</th>
+<th bgcolor="#D4FOFO"> IMAGE</th>
+<th bgcolor="#D4FOFO"> PRICE</th>
+</tr>
+<td bgcolor="#D4FOFO">SISIG WITH RICE</td>
+<td bgcolor="#D4FOFO"> <img src="https://purposefoods.ph/cdn/shop/products/Sisigwrice2.jpg?v=1669191726&width=1206" style="height:150px;width:250px"></td>
+<td bgcolor="#D4FOFO">₱110</td>
+<td bgcolor="#D4FOFO">PASSION FRUIT TEA</td>
+<td bgcolor="#D4FOFO"> <img src="https://coco-tea.ph/wp-content/uploads/2019/01/Lemon-Black-Tea.png" style="height:150px;width:250px">
+<td bgcolor="#D4FOFO">₱65</td>
+<td bgcolor="#D4FOFO">OKINAWA</td>
+<td> <img src="https://coffeeaffection.com/wp-content/uploads/2022/07/iced-okinawa-milk-tea_jyk20180915_Shutterstock.webp"  style="height:200px;width:250px"></td>
+<td bgcolor="#D4FOFO">₱75</td>
+<td bgcolor="#D4FOFO">SIOMAI</td>
+<td bgcolor="#D4FOFO"> <img src="https://assets.unileversolutions.com/recipes-v3/192110-default.jpg?im=AspectCrop=(767,489);Resize=(767,489)" style="height:150px;width:250px"></td>
+<td bgcolor="#D4FOFO">₱40</td>
+</tr>
+<td bgcolor="#D4FOFO">PECHO WITH RICE</td>
+<td bgcolor="#D4FOFO"> <img src="https://i.pinimg.com/736x/c4/67/30/c46730f913a418cf3b2393ff85ac4a8e.jpg" style="height:150px;width:250px"</td>
+<td bgcolor="#D4FOFO">₱130</td>
+<td bgcolor="#D4FOFO">Passion Fruit Green or Mountain Tea</td>
+<td bgcolor="#D4FOFO"> <img src="https://coco-tea.ph/wp-content/uploads/2019/01/Passion-Fruit-Green-or-Mountain-Tea.png" style="height:150px;width:250px"
+<td bgcolor="#D4FOFO">₱75</td>
+<td bgcolor="#D4FOFO">RED VELVET</td>
+<td bgcolor="#D4FOFO"><img src="https://2.bp.blogspot.com/-lsyWs0rDuxQ/XyefcoB0bxI/AAAAAAAABqM/lJy9Wi0PmkYRIWXoNU70KvrTVIh6kd-bwCLcBGAsYHQ/s1600/IMG20200715124249.jpg" style="height:200px;width:250px"
+<td bgcolor="#D4FOFO">₱75</td>
+<td bgcolor="#D4FOFO">VEGETABLE LUMPIA</td>
+<td bgcolor="#D4FOFO"> <img src="https://thefoodietakesflight.com/wp-content/uploads/2020/10/lumpiang-gulay-3.jpg" style="height:150px;width:250px"></td>
+<td bgcolor="#D4FOFO">₱50</td>
+<tr>
+<td bgcolor="#D4FOFO">PAA WITH RICE</td>
+<td bgcolor="#D4FOFO"> <img src="https://kanamit.com.ph/cdn/shop/products/06-inasal-paa.jpg?v=1678151259&width=1206" style="height:150px;width:250px"</td>
+<td bgcolor="#D4FOFO">₱130</td>
+<td bgcolor="#D4FOFO">ORANGE FRUIT TEA</td>
+<td bgcolor="#D4FOFO"> <img src="https://coco-tea.ph/wp-content/uploads/2019/01/Orange-Mountain-Tea.png" style="height:200px;width:250px"</td>
+<td bgcolor="#D4FOFO">₱85</td>
+<td bgcolor="#D4FOFO">COOKIES 'N CREAM</td>
+<td bgcolor="#D4FOFO"><<img src="https://myveganminimalist.com/wp-content/uploads/2022/05/Oreo-Bubble-Milk-Tea-Boba-12.jpg" style="height:200px;width:250px"</td>
+<td bgcolor="#D4FOFO">₱85</td>
+<td bgcolor="#D4FOFO">NACHOS</td>
+<td bgcolor="#D4FOFO"> <img src="https://iambaker.net/wp-content/uploads/2019/07/chili-cheese-nacho-final.jpg" style="height:150px;width:250px"></td>
+<td bgcolor="#D4FOFO">₱85</td>
+</tr>
+<td bgcolor="#D4FOFO">LIEMPO WITH RICE</td>
+  <td bgcolor="#D4FOFO"> <img src="https://media-cdn.tripadvisor.com/media/photo-s/15/f9/e6/58/grilled-pork-belly-meal.jpg" style="height:200px;width:250px"</td>
+<td bgcolor="#D4FOFO">₱150</td>
+<td bgcolor="#D4FOFO">Grapefruit and Orange Tea</td>
+<td bgcolor="#D4FOFO"> <img src="https://coco-tea.ph/wp-content/uploads/2019/01/Grapefruit-and-Orange-Tea.png" style="height:200px;width:250px"</td>
+<td bgcolor="#D4FOFO">₱95</td>
+<td bgcolor="#D4FOFO">STRAWBERRY</td>
+<td bgcolor="#D4FOFO"> <img src="https://myveganminimalist.com/wp-content/uploads/2022/04/Strawberry-Milk-Tea-Boba-11.jpg" style="height:200px;width:250px"</td>
+<td bgcolor="#D4FOFO">₱65</td>
+<td bgcolor="#D4FOFO">KROPEK</td>
+  <td bgcolor="#D4FOFO"> <img src="https://i0.wp.com/www.mamasguiderecipes.com/wp-content/uploads/2020/09/20200908_174316_0000.jpg?fit=735%2C1102&ssl=1" style="height:200px;width:250px"</td>
+  <td bgcolor="#D4FOFO">₱50</td>
+<tr>
+<td bgcolor="#D4FOFO">PORK BBQ WITH RICE</td>
+  <td bgcolor="#D4FOFO"> <img src="https://whisperofyum.com/wp-content/uploads/2023/09/whisper-of-yum-filipino-bbq.jpg" style="height:200px;width:250px"</td>
+<td bgcolor="#D4FOFO">₱120</td>
+<td bgcolor="#D4FOFO">Passion Fruit Tea Burst</td>
+<td bgcolor="#D4FOFO"> <img src="https://coco-tea.ph/wp-content/uploads/2019/01/Passion-Fruit-Tea-Burst.png" style="height:200px;width:250px"</td>
+<td bgcolor="#D4FOFO">₱125</td>
+<td bgcolor="#D4FOFO">MATCHA</td>
+<td bgcolor="#D4FOFO"> <img src="https://ameessavorydish.com/wp-content/uploads/2023/01/Matcha-milk-tea-post-7.jpg" style="height:200px;width:200px"</td>
+<td bgcolor="#D4FOFO">₱65</td>
+<td bgcolor="#D4FOFO">CHICKEN NUGGETS</td>
+  <td bgcolor="#D4FOFO"> <img src="https://www.onehappyhousewife.com/wp-content/uploads/2022/05/air-fryer-chicken-nuggets-8.webp" style="height:200px;width:250px"</td>
+<td bgcolor="#D4FOFO">₱150</td>
+</body>
+</html>
